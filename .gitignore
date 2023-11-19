@@ -1,0 +1,4 @@
+*.o
+publisher
+subscriber
+publisher_test
